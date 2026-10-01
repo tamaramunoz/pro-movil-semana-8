@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">tamara_munoz_semana8</string>
+    <string name="decimal_result">Resultado Decimal:</string>
+    <string name="binary_result">Resultado Binario:</string>
+    <string name="results">Resultados:</string>
+    <string name="clean">Limpiar Campos</string>
+    <string name="convert">Convertir Base</string>
+    <string name="subtract">Restar (-)</string>
+    <string name="add">Sumar (+)</string>
+    <string name="insert_second_number">Ingrese segundo número</string>
+    <string name="insert_first_number">Ingrese primer número</string>
+    <string name="binary">Binario</string>
+    <string name="decimal">Decimal</string>
+    <string name="numeric_system">Sistema Numérico de Entrada:</string>
+    <string name="calculator">Calculadora INGE CORP</string>
+    <string name="company_logo">Logo de la Empresa INGE CORP</string>
 </resources>
